@@ -26,5 +26,6 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 - [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as The Builder Helper
 - [Frounder](https://www.youtube.com/@frounder.p2v) as The Builder Helper, And Modpack Manager
 - [NesNCJ](https://www.youtube.com/channel/UC1VbfMyWCOa8j8zav-rmMaw) as Skin Maker
+- PGC as Mod Maker
 - Everyone who has suggest ideas and reported bugs
 - Every Beta Tester
