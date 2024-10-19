@@ -21,6 +21,7 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 </div>
 
 ## Credits
+- [KATSU0](https://www.youtube.com/@KATSU00) Project Manager
 - [HomuraKunG](https://www.youtube.com/@homurakun) as The Main Builder of the Map
 - [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as The Builder Helper
 - [Frounder](https://www.youtube.com/@frounder.p2v) as The Builder Helper, And Modpack Manager
