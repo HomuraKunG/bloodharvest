@@ -5,14 +5,11 @@
 
   The modpack for players of Blood Harvest Project
 
-  ![Discord](https://img.shields.io/discord/1278053344979583027?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)
-
+  [![Discord](https://img.shields.io/discord/1278053344979583027?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/EjQcbx7NyJ)
 </div>
 
-## Useful Links
-
 <div align="center">
-
+  
 We recommended 3 Lunchers for our players and use Windows OS for the best experince
 
 | Launcher                                      |    Support    |
@@ -23,6 +20,11 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 
 </div>
 
-<!-- Images -->
-[img-cf]: <https://img.shields.io/curseforge/dt/396246?style=for-the-badge&label=CurseForge&color=orange&logoColor=orange&labelColor=black&logo=curseforge>
-[img-discord]: <https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2Ffabulously-optimized-859124104644788234%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&label=Discord&color=5865F2&logoColor=white&labelColor=black&logo=discord>
+## Credits
+- [HomuraKunG](https://www.youtube.com/@homurakun) as The Main Builder of the Map
+- [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as The Builder Helper
+- [Frounder](https://www.youtube.com/@frounder.p2v) as The Builder Helper, And Modpack Manager
+- [KATSU0](https://www.youtube.com/@KATSU00) as mod Supporter and Project Manager
+- [NesNCJ](https://www.youtube.com/channel/UC1VbfMyWCOa8j8zav-rmMaw) as Skin Maker
+- Everyone who has suggest ideas and reported bugs
+- Every Beta Tester
