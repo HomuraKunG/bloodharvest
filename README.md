@@ -4,9 +4,24 @@
   ## The Blood Harvest Project
 
   The modpack for players of Blood Harvest Project
+
+  ![Discord](https://img.shields.io/discord/1278053344979583027?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)
+
 </div>
 
-[<img src="https://drive.google.com/thumbnail?id=1h9OV4nZsqP2UkWZWq_69ujnl-R6xBjFg" width="30"/>](https://github.com/)
+## Useful Links
+
+<div align="center">
+
+We recommended 3 Lunchers for our players and use Windows OS for the best experince
+
+| Launcher                                      |    Support    |
+| --------------------------------------------- | :-----------: |
+| [CurseForge App](https://www.curseforge.com/download/app)                 | ❌&nbsp;No |
+| [Modrinth App](https://modrinth.com/)             |  ✅&nbsp;Yes  |
+| [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ❌&nbsp;No |
+
+</div>
 
 <!-- Images -->
 [img-cf]: <https://img.shields.io/curseforge/dt/396246?style=for-the-badge&label=CurseForge&color=orange&logoColor=orange&labelColor=black&logo=curseforge>
