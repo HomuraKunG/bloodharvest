@@ -5,7 +5,7 @@
 
   The modpack for players of Blood Harvest Project
 
-![Static Badge](https://img.shields.io/badge/Read_The_Wiki-black?style=for-the-badge&logo=gitbook&logoSize=auto&color=%232E3136)
+[![Static Badge](https://img.shields.io/badge/Read_The_Wiki-black?style=for-the-badge&logo=gitbook&logoSize=auto&color=%232E3136)](https://chameleon-house.gitbook.io/chameleon)
 <br>
 [![Discord](https://img.shields.io/discord/999995943824936970?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/dKnE4t8MV7)
 </div>
