@@ -5,11 +5,13 @@
 
   The modpack for players of Blood Harvest Project
 
-  [![Discord](https://img.shields.io/discord/999995943824936970?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/dKnE4t8MV7)
+![Static Badge](https://img.shields.io/badge/Read_The_Wiki-black?style=for-the-badge&logo=gitbook&logoSize=auto&color=%232E3136)
+<br>
+[![Discord](https://img.shields.io/discord/999995943824936970?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/dKnE4t8MV7)
 </div>
 
-<div align="center">
-  
+## Downloads
+
 We recommended 3 Lunchers for our players and use Windows OS for the best experince
 
 | Launcher                                      |    Support    |
@@ -17,8 +19,6 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 | [CurseForge App](https://www.curseforge.com/download/app)                 | ❌&nbsp;No |
 | [Modrinth App](https://modrinth.com/)             |  ✅&nbsp;Yes  |
 | [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ❌&nbsp;No |
-
-</div>
 
 ## Credits
 - [KATSU0](https://www.youtube.com/@KATSU00) Project Manager
