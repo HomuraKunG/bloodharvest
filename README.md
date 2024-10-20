@@ -14,11 +14,11 @@
 
 We recommended 3 Lunchers for our players and use Windows OS for the best experince
 
-| Launcher                                      |    Support    |
-| --------------------------------------------- | :-----------: |
-| [CurseForge App](https://www.curseforge.com/download/app)                 | ❌&nbsp;No |
-| [Modrinth App](https://modrinth.com/)             |  ✅&nbsp;Yes  |
-| [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ❌&nbsp;No |
+| Launcher                                      |    Install    |     Upgrade     |   Add mods    |
+| --------------------------------------------- | :-----------: | :-------------: | :-----------: |
+| [CurseForge App](https://www.curseforge.com/download/app)                 |  ⏸️ Not Supported  |   ❌ Manual   |  ❌ No  |
+| [Modrinth App](https://modrinth.com/)              |  ✅ Easy  |   ❌ Manual   |  ❌ No  |
+| [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ⏸️ Not Supported |  ⏸️ Not Supported  | ❌ No |
 
 ## Credits
 - [KATSU0](https://www.youtube.com/@KATSU00) Project Manager
