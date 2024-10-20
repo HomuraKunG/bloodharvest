@@ -21,7 +21,7 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 | [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ⏸️ Not Supported |  ⏸️ Not Supported  | ❌ No |
 
 ## Credits
-- [KATSU0](https://www.youtube.com/@KATSU00) as the best Project Manager in hell
+- [KATSU0](https://www.youtube.com/@KATSU00) as Project Manager
 - [Frounder](https://www.youtube.com/@frounder.p2v) as Modpack Manager
 - [HomuraKunG](https://www.youtube.com/@homurakun) as Head of Map Development
 - [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as Head of Map Development Assistance
