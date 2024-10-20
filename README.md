@@ -5,7 +5,7 @@
 
   The modpack for players of Blood Harvest Project
 
-  [![Discord](https://img.shields.io/discord/1278053344979583027?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/j5skthtpcp)
+  [![Discord](https://img.shields.io/discord/999995943824936970?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&label=Discord&labelColor=%23000000&color=%235865F2)](https://discord.gg/dKnE4t8MV7)
 </div>
 
 <div align="center">
