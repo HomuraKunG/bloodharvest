@@ -16,16 +16,15 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 
 | Launcher                                      |    Install    |     Upgrade     |   Add mods    |
 | --------------------------------------------- | :-----------: | :-------------: | :-----------: |
-| [CurseForge App](https://www.curseforge.com/download/app)                 |  ⏸️ Not Supported  |   ❌ Manual   |  ❌ No  |
 | [Modrinth App](https://modrinth.com/)              |  ✅ Easy  |   ❌ Manual   |  ❌ No  |
+| [CurseForge App](https://www.curseforge.com/download/app)                 |  ⏸️ Not Supported  |   ❌ Manual   |  ❌ No  |
 | [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ⏸️ Not Supported |  ⏸️ Not Supported  | ❌ No |
 
 ## Credits
-- [KATSU0](https://www.youtube.com/@KATSU00) Project Manager
-- [HomuraKunG](https://www.youtube.com/@homurakun) as The Main Builder of the Map
-- [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as The Builder Helper
-- [Frounder](https://www.youtube.com/@frounder.p2v) as The Builder Helper, And Modpack Manager
-- [NesNCJ](https://www.youtube.com/channel/UC1VbfMyWCOa8j8zav-rmMaw) as Skin Maker
-- PGC as Mod Maker
+- [KATSU0](https://www.youtube.com/@KATSU00) as Project Manager
+- [Frounder](https://www.youtube.com/@frounder.p2v) as Modpack Manager
+- [HomuraKunG](https://www.youtube.com/@homurakun) as Head of Map Development
+- [KyleKab_](https://www.youtube.com/channel/UCe_7cOJ34J2VGBC2_GiCHOw) as Head of Map Development Assistance
+- [NesNCJ](https://www.youtube.com/channel/UC1VbfMyWCOa8j8zav-rmMaw) as Digital Skin Artist
+- [PGC](https://www.youtube.com/@PGCPossibleGoalCreated) as Mod Developer
 - Everyone who has suggest ideas and reported bugs
-- Every Beta Tester
