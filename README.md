@@ -16,7 +16,7 @@ We recommended 3 Lunchers for our players and use Windows OS for the best experi
 
 | Launcher                                      |    Install    |     Upgrade     |   Add mods    |
 | --------------------------------------------- | :-----------: | :-------------: | :-----------: |
-| [Modrinth App](https://modrinth.com/)              |  ✅ Easy  |   ❌ Manual   |  ❌ No  |
+| [Modrinth App](https://modrinth.com/)              |  ✅ Easy  |   ✅ Easy   |  ❌ No  |
 | [CurseForge App](https://www.curseforge.com/download/app)                 |  ✅ Supported  |   ❌ Manual   |  ❌ No  |
 | [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download) | ⏸️ Not Supported |  ⏸️ Not Supported  | ❌ No |
 
